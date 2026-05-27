@@ -1,9 +1,9 @@
 # 213 Examples of JavaScript (JS-213-Examples)
  
-213 JavaScript Programs for Beginners
- 
-Table of contents
-Intro
+## 213 JavaScript Programs for Beginners
+
+### Table of contents
+### Intro
 1. Print Hello World
 2. Add Two Numbers
 3. Find the Square Root
